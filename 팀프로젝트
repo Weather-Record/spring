@@ -1,7 +1,9 @@
+
 use mysql;
 
 drop table;
 
+-----------------Below are DB info 
 -- 날씨 데이블
 create table record(
 record_id int primary key auto_increment,
